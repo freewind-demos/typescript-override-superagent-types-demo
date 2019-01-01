@@ -3,7 +3,11 @@
     "demo": "ts-node hello.ts"
   },
   "devDependencies": {
+    "@types/superagent": "3.8.5",
     "ts-node": "7.0.1",
     "typescript": "3.2.2"
+  },
+  "dependencies": {
+    "superagent": "4.1.0"
   }
 }
